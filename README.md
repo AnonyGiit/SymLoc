@@ -1,6 +1,6 @@
 
-###  Please kindly check the following code examples mentioned in the paper:
-* [click here to see a more clear version](./Appendix.pdf)
+###  Please kindly check the following code examples in the Appendix mentioned in the paper:
+* [click here to see a more clear version of the Appendix](./Appendix.pdf)
 
 ![Appendix](./Appendix.png)
 
