@@ -92,7 +92,7 @@ make -j4
 
 ## Part B: Running results of the motivating example
 
-* Suppose you have installed SymLoc and KLEE, and we run SymLoc and KLEE on the motivating example (mov.c) given in the paper.
+* Suppose you have installed SymLoc and KLEE, and we run SymLoc and KLEE on the motivating example ([mov.c](https://github.com/AnonyGiit/SymLoc/blob/main/examples/motivating-example-symloc/mov.c)) given in the paper.
 
 ```
 #include <string.h>
